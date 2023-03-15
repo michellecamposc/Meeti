@@ -1,0 +1,10 @@
+@use "../custom" as *;
+
+.header {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+
+  .logo {
+    width: 10rem;
+  }
+}

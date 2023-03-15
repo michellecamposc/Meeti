@@ -4,7 +4,7 @@
   "description": "Learning Boostrap 5 and SASS",
   "main": "index.js",
   "scripts": {
-  "compilation:sass": "sass --watch src/scss:build/css"
+    "compilation:sass": "sass --watch src/scss:build/css"
   },
   "author": "Stephanie Campos",
   "license": "ISC",

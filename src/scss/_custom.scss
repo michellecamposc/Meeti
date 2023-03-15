@@ -1,0 +1,15 @@
+// New bootstrap variables
+$red-color: #f34f51;
+$green-color: #0098ae;
+$dark-color: #212121;
+
+// Assign color palettes
+$primary: $red-color;
+$secondary: $green-color;
+$dark: $dark-color;
+
+// Typography
+$display-font-weight: 900;
+
+//Import Bootstrap
+@use "../../node_modules/bootstrap/scss/bootstrap";
